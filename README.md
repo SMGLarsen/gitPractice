@@ -4,5 +4,6 @@
 
 **List of tips**
 
-1.**Two asterisk emphasize**
-2.*One asterisk Italicizes*
+1. **Two asterisk emphasize**
+
+2. *One asterisk Italicizes*
