@@ -17,7 +17,7 @@
           <mxGeometry x="295" y="310" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="omj4Aqj8LQofVTS_fiEM-2261" value="" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.switch;points=[[0,0.5,0,0,0],[0.05,0.05,0,0,0],[0.1,1,0,0,0],[0.3,1,0,0,0],[0.5,0,0,0,0],[0.5,1,0,0,0],[0.7,1,0,0,0],[0.9,1,0,0,0],[0.95,0.05,0,0,0],[1,0.5,0,0,0]];" vertex="1" parent="1">
-          <mxGeometry x="180" y="410" width="100" height="30" as="geometry" />
+          <mxGeometry x="130" y="420" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="omj4Aqj8LQofVTS_fiEM-2262" value="" style="shape=filledEdge;curved=0;rounded=0;fixDash=1;endArrow=none;strokeWidth=10;fillColor=#ffffff;edgeStyle=orthogonalEdgeStyle;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="omj4Aqj8LQofVTS_fiEM-2261" target="omj4Aqj8LQofVTS_fiEM-2260">
           <mxGeometry width="60" height="40" relative="1" as="geometry">
@@ -25,26 +25,45 @@
             <mxPoint x="660" y="540" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="omj4Aqj8LQofVTS_fiEM-2263" value="" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.desktop_pc;" vertex="1" parent="1">
-          <mxGeometry x="440" y="670" width="30" height="60" as="geometry" />
+        <mxCell id="omj4Aqj8LQofVTS_fiEM-2263" value="Gaming" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.desktop_pc;" vertex="1" parent="1">
+          <mxGeometry x="160" y="560" width="40" height="100" as="geometry" />
         </mxCell>
         <mxCell id="omj4Aqj8LQofVTS_fiEM-2265" value="Tower" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.rack;" vertex="1" parent="1">
-          <mxGeometry x="100" y="510" width="50" height="100" as="geometry" />
+          <mxGeometry x="100" y="560" width="50" height="100" as="geometry" />
         </mxCell>
         <mxCell id="omj4Aqj8LQofVTS_fiEM-2266" value="Glados" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.rack;" vertex="1" parent="1">
-          <mxGeometry x="40" y="510" width="50" height="100" as="geometry" />
+          <mxGeometry x="40" y="560" width="50" height="100" as="geometry" />
         </mxCell>
         <mxCell id="omj4Aqj8LQofVTS_fiEM-2267" value="" style="shape=filledEdge;curved=0;rounded=0;fixDash=1;endArrow=none;strokeWidth=10;fillColor=#ffffff;edgeStyle=orthogonalEdgeStyle;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.1;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="omj4Aqj8LQofVTS_fiEM-2261" target="omj4Aqj8LQofVTS_fiEM-2266">
           <mxGeometry width="60" height="40" relative="1" as="geometry">
             <mxPoint x="600" y="580" as="sourcePoint" />
             <mxPoint x="660" y="540" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="190" y="460" />
-              <mxPoint x="65" y="460" />
+              <mxPoint x="140" y="480" />
+              <mxPoint x="65" y="480" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="omj4Aqj8LQofVTS_fiEM-2268" value="" style="shape=filledEdge;curved=0;rounded=0;fixDash=1;endArrow=none;strokeWidth=10;fillColor=#ffffff;edgeStyle=orthogonalEdgeStyle;html=1;entryX=0.3;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="omj4Aqj8LQofVTS_fiEM-2265" target="omj4Aqj8LQofVTS_fiEM-2261">
+          <mxGeometry width="60" height="40" relative="1" as="geometry">
+            <mxPoint x="600" y="580" as="sourcePoint" />
+            <mxPoint x="660" y="540" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="125" y="510" />
+              <mxPoint x="160" y="510" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="omj4Aqj8LQofVTS_fiEM-2270" value="" style="shape=filledEdge;curved=0;rounded=0;fixDash=1;endArrow=none;strokeWidth=10;fillColor=#ffffff;edgeStyle=orthogonalEdgeStyle;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="omj4Aqj8LQofVTS_fiEM-2263" target="omj4Aqj8LQofVTS_fiEM-2261">
+          <mxGeometry width="60" height="40" relative="1" as="geometry">
+            <mxPoint x="600" y="580" as="sourcePoint" />
+            <mxPoint x="660" y="540" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="omj4Aqj8LQofVTS_fiEM-2271" value="" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.satellite_dish;rotation=90;" vertex="1" parent="1">
+          <mxGeometry x="210" y="585" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="omj4Aqj8LQofVTS_fiEM-2272" value="" style="shape=filledEdge;curved=0;rounded=0;fixDash=1;endArrow=none;strokeWidth=10;fillColor=#ffffff;edgeStyle=orthogonalEdgeStyle;html=1;entryX=0.7;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="omj4Aqj8LQofVTS_fiEM-2271" target="omj4Aqj8LQofVTS_fiEM-2261">
           <mxGeometry width="60" height="40" relative="1" as="geometry">
             <mxPoint x="600" y="580" as="sourcePoint" />
             <mxPoint x="660" y="540" as="targetPoint" />
